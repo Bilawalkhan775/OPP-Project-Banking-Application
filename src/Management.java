@@ -22,9 +22,6 @@ public class Management extends JFrame implements ActionListener {
     private Color mc;
 
 
-
-
-
     public Management(){
         setTitle("Bank Management System");
         setSize(1200,700);
@@ -32,7 +29,6 @@ public class Management extends JFrame implements ActionListener {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setUndecorated(true);
         setLayout(null);
-        setVisible(true);
 
 
         mc= new Color(36,47,103);
@@ -205,6 +201,7 @@ public class Management extends JFrame implements ActionListener {
         qb.addActionListener(this);
         jb10.addActionListener(this);
 
+        setVisible(true);
     }
 
 
