@@ -123,11 +123,9 @@ OPP-PROJECT-BANKING-APPLICATION
 
 ---
 
-## 🖼️ Recommended Images & Scenarios to Add in README
+## 🖼️ Main Screen
 
-```md
 ![Main Screen](img/main_screen.png)
-```
 
 ---
 
