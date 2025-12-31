@@ -123,7 +123,7 @@ OPP-PROJECT-BANKING-APPLICATION
 
 ---
 
-## 🖼️ Main Screen
+## Main Screen
 
 ![Main Screen](img/main_screen.png)
 
