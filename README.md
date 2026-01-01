@@ -1,6 +1,6 @@
 # 🏦 Bank Management System (Java Swing)
 
-## 📌 Project Overview
+## Project Overview
 
 The **Bank Management System** is a desktop-based Java application built using **Java Swing** to simulate fundamental banking operations. The project demonstrates **object-oriented programming**, **GUI-based interaction**, and **file-based persistence** without relying on external databases.
 
@@ -8,7 +8,7 @@ It is intended primarily for **academic learning**, focusing on how real-world b
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Practice **Java Swing GUI development**
 * Apply **OOP principles** 
@@ -18,7 +18,7 @@ It is intended primarily for **academic learning**, focusing on how real-world b
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * Create new bank accounts
 * Manage account details through a GUI
@@ -29,7 +29,7 @@ It is intended primarily for **academic learning**, focusing on how real-world b
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language:** Java  
 * **GUI Framework:** Java Swing  
@@ -41,7 +41,7 @@ It is intended primarily for **academic learning**, focusing on how real-world b
 
 ---
 
-## 📂 Project Structure (As Implemented)
+## 📂 Project Structure
 
 ```
 OPP-PROJECT-BANKING-APPLICATION
@@ -70,7 +70,7 @@ OPP-PROJECT-BANKING-APPLICATION
 └── README.md
 ```
 
-### 📁 Folder Explanation
+### Folder Explanation
 
 * **`src/`** – Core Java source files  
 * **`img/`** – UI assets such as background and logo images  
@@ -80,7 +80,7 @@ OPP-PROJECT-BANKING-APPLICATION
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Ensure **Java JDK (8 or later)** is installed  
 2. Open the project in **IntelliJ IDEA**  
@@ -95,7 +95,7 @@ OPP-PROJECT-BANKING-APPLICATION
 
 ---
 
-## 💾 Data Storage
+## Data Storage
 
 * All account information is stored in **`Accounts.txt`**
 * The file is automatically created and updated at runtime
@@ -103,7 +103,7 @@ OPP-PROJECT-BANKING-APPLICATION
 
 ---
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 * No database integration (text-file based storage only)
 * No authentication or role-based access
@@ -112,7 +112,7 @@ OPP-PROJECT-BANKING-APPLICATION
 
 ---
 
-## 🔮 Possible Future Enhancements
+## Possible Future Enhancements
 
 * Integrate **MySQL / SQLite** database
 * Add user authentication (Admin / Customer roles)
@@ -135,7 +135,7 @@ This project is forked from the original repository:
 **OPP-Project-Banking-Application**  
 by **Muhammad Bilawal Khan**.
 
-### 🔧 Modifications in This Fork
+### Modifications in This Fork
 
 * Fixed GUI loading and rendering issues
 * Re-structured the project directory for clarity and maintainability
